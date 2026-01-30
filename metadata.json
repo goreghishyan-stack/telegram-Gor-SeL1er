@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TeleGemini AI",
+  "description": "A sophisticated Telegram-inspired AI chat application featuring multiple specialized bots for text, image generation, search grounding, and real-time voice conversations using Gemini 3 and 2.5 series models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
